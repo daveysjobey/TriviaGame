@@ -1,0 +1,10 @@
+body{
+    background-image: url("../images/800px_COLOURBOX4594633.jpg");
+}
+.container{
+    background-color: black;
+    padding: 2.5rem;
+    
+}
+.text-orange{
+    color: #d15a2d;
