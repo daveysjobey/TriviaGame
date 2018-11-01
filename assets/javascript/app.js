@@ -1,0 +1,10 @@
+var questions = ["Who is the King of Pumpkinland?","Where did Halloween originate?","What is the day before Halloween called?","What type of movie is most commonly associated with Halloween?"]
+var answers1 = ["The Oogie Boogey Man", "Santa Claus", "Jack", "The Mayor"]
+var answers2 = ["The United States", "Scotland", "Norway", "France"]
+var answers3 = ["Mischief Night","Hallowseve","Preween","The Night before"]
+var answers4 = ["Horror","Comedy","War","Dog"]
+var images1 = ["../images/91saPLC4-aL._UY445_.jpg","../images/santa.jpg","../images/jack-skellington-movie-prints.jpg","../images/Fsdfdafs.png"]
+var images2 = ["../images/1200px-United_States_Map_of_Population_by_State_(2015).svg.png","../images/scotland-map-vector-3383691.jpg","../images/file_7382deeb-5d4a-4440-9608-fb212ab775d9.png","../images/france-map.gif"]
+var images3 = ["../images/il_570xN.1152621519_pm91.jpg","../images/images.jpeg","../images/35-og.jpg","../images/onesheet.jpg"]
+var images4 = ["../images/horrorclassics_2.0.jpg","../images/best-sketch-comedy.jpg","../images/220px-U.S._Marines_in_Operation_Allen_Brook_(Vietnam_War)_001.jpg","../images/Mobile.jpg"]
+
