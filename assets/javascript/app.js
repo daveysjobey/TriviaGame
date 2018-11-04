@@ -34,6 +34,10 @@ $(document).ready(function () {
 
     function endgame(){
         $(".game").hide();
+        $("#Correct").text("Correct: "+correct);
+        $("#Incorrect").text("Incorrect: "+incorrect);
+        $(".results").show();
+        
 
     }
 
@@ -110,6 +114,20 @@ $(document).ready(function () {
 
     });
 
+    $("#reset").on("click", function () {
+        $(".results").hide();
+        questionNum = 0;
+        correct = 0;
+        incorrect = 0;
+        console.log(questionNum);
+        console.log (correct);
+        console.log (incorrect);
+
+        $(".game").show();
+        nextQuestion();
+    });
+
+    $(".results").hide();
     nextQuestion();
 
 
